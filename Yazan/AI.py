@@ -111,7 +111,7 @@ def searchgoogle(): #opens tab in google and seaches
 # def text2speech():
 #     text = clipboard.paste()
 #     print(text)
-#     speak(text)
+     speak(text)
     
 def screenshot():
     name_img = tt.time()
